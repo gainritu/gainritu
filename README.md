@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gainritu
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 -   HTML
 -   JavaScript
+-   Python
 -   Core Java
 -   My SQL
 - 💞️ I’m looking to collaborate on ...
